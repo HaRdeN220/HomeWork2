@@ -7,6 +7,6 @@ public class Main {
    short brownColour = 4;
    System.out.println("В школе, где " + (paint/(whiteColour + brownColour)) + " классов, нужно " +
            ((paint/(whiteColour + brownColour))*whiteColour)+" банок белой краски и "+ ((paint/(whiteColour + brownColour))*brownColour) +
-           " банок коричневой краски");
+           " банок коричневой краски.");
     }
 }
